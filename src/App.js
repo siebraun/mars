@@ -3,7 +3,7 @@ import "./App.css";
 import { useState, useEffect } from "react";
 import { MarsGallery } from "./MarsGallery";
 import { NasaAPIConnection } from "./DataConnection";
-import ReactDOM from "react-dom";
+// import ReactDOM from "react-dom";
 import Snowfall from "react-snowfall";
 
 function App() {
